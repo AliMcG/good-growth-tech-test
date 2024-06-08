@@ -8,6 +8,10 @@ turn on "deveolper mode" in chrome extension/manage extension
 
 add /* global $ */ right belowv// ==/Usercript==.  to tampermonkey script to remove undefined error
 
+# Mockup
+
+![mock-up image](/national-trust.png)
+
 # Plan Notes
 
 * Get basic TamperMonkey script working ✅
