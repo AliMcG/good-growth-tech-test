@@ -2,7 +2,7 @@
 // @name         GoodGrowth-nationalTrustWeatherApi
 // @namespace    http://tampermonkey.net/
 // @version      2024-06-08
-// @description  try to take over the world!
+// @description  try to add weather data for location
 // @author       AliMcG
 // @match        https://www.nationaltrust.org.uk/visit/warwickshire/packwood-house
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
