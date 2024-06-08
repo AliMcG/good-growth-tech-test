@@ -15,8 +15,8 @@ add /* global $ */ right belowv// ==/Usercript==.  to tampermonkey script to rem
 # Plan Notes
 
 * Get basic TamperMonkey script working ✅
-* crate mock up as visiual guide to add data to website ✅
+* create mock up as visual guide to add data to website ✅
 * Inspect National Trust website for useful selectors to try out ✅
-* Expermient with selectors ✅
+* Experiment with selectors ✅
 * Update website to match mock up ✅
 * use Jquery to add weather api data to the correct section in website ✅
