@@ -1,4 +1,8 @@
-# TamperMonket notes
+# JQuery script to modify webite
+
+The script in this repo works with the chrome extention [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1)
+
+# TamperMonkey notes
 
 Useful blog here https://www.freecodecamp.org/news/applying-javascript-user-scripts-2e505643644d/
 
