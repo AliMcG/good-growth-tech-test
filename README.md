@@ -2,6 +2,8 @@
 
 The script in this repo works with the chrome extention [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1)
 
+This script is specific to the page at this url
+https://www.nationaltrust.org.uk/visit/warwickshire/packwood-house#place-weather
 # TamperMonkey notes
 
 Useful blog here https://www.freecodecamp.org/news/applying-javascript-user-scripts-2e505643644d/
